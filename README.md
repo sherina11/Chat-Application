@@ -13,3 +13,5 @@
 ## How to Run
 gcc main.c -o chat
 ./chat
+
+## Author
