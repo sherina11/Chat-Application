@@ -15,3 +15,4 @@ gcc main.c -o chat
 ./chat
 
 ## Author
+Raja Sherina T
