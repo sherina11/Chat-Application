@@ -16,3 +16,4 @@ gcc main.c -o chat
 
 ## Author
 Raja Sherina T
+CSE Department
